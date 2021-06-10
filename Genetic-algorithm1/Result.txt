@@ -1,0 +1,2 @@
+x * y * z + x * y * z^2 + y + u * x * y^2 * z^2 + w^2 * x * y^2 * z = -50
+No solutions
